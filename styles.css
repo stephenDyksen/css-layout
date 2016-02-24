@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background: #FFF;
+}
+
+.introduction {
+  background-color: #FFF;
+  padding: 50px 80px;
+  border-bottom: 5px solid red;
+}
+
+.example_section {
+  height: 500px;
+  width: 100%;
+  border-bottom: 5px solid red;
+}
+
+.text {
+  position: relative;
+  top: 50px;
+  left: 40px;
+  width: 50%;
+  padding: 30px;
+  background: blue;
+}
+
+.demo {
+  width: 50%;
+  background: pink;
+}
+
+.parent{ background-color:yellow; width:300px;}
+.red {background-color:red; height:50px; }
+
+.blue {
+  background-color:blue;
+  height:50px;
+  margin-top:30px;
+  border:1px solid black;
+}
+.blue p{ margin-top:20px; background:green;}
